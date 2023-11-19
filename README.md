@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**gordwest/gordwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Skills
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/swift/"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/git/"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Software
+<img height="32" width="32" src="https://cdn.simpleicons.org/snowflake/"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver/"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/autodesk/"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/salesforce/"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure/"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/microsoftexcel/"/>
